@@ -250,7 +250,8 @@ npm run dev
 1. **Create characters**: Click "+ New Character", fill in personality / hobbies / speech style, or hit "AI Generate"
 2. **Set the stage**: Click "+ New Scene", choose a genre and write a scenario — AI generates the script and assigns each character a **secret goal**
 3. **Play**:
-   - Click **"续演 ▶"** to let the Director pick who speaks next
+   - Click **"下一句 ▶"** to let the Director pick who speaks next
+   - Click **"放养"** to let the character perform automatically until you pause
    - Type `@character` to force a specific character to respond
    - Send a public message as narration or world-building
    - Click a character's avatar to **Whisper** — private intel only they can see
