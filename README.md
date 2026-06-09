@@ -53,6 +53,7 @@ cp .env.example .env
 ```
 
 编辑 `.env`，填入你的 Key（至少填一个）：
+同时，也可以直接在界面上配置模型
 
 ```env
 VITE_DEEPSEEK_API_KEY=sk-...        # 推荐
@@ -227,7 +228,7 @@ cp .env.example .env
 ```
 
 Edit `.env` with at least one key:
-
+And the model can also be directly configured on the interface
 ```env
 VITE_DEEPSEEK_API_KEY=sk-...        # Recommended
 VITE_OPENROUTER_API_KEY=sk-or-...   # Optional
