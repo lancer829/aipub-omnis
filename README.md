@@ -1,8 +1,8 @@
 # AI Pub · 私人会所
 
-> **AI 剧本杀** —— 邀几位 AI 角色，各怀鬼胎地演一场好戏。你扮演**监察者**，在暗处点名、塞情报、补背景，操控这个世界。
+[English](#ai-pub--private-club) | 简体中文
 
-**English version below ↓**
+> **AI 剧本杀** —— 邀几位 AI 角色，各怀鬼胎地演一场好戏。你扮演**监察者**，在暗处点名、塞情报、补背景，操控这个世界。
 
 ---
 
@@ -174,6 +174,8 @@ npm run dev
 ---
 
 # AI Pub · Private Club
+
+[简体中文](#ai-pub--私人会所) | English
 
 > **AI Roleplay Sandbox** — Invite a cast of AI characters, each with hidden agendas, and watch the drama unfold. You play the **Overseer** — the invisible hand that sets the stage, drops intel, and whispers in ears.
 
